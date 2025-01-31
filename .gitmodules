@@ -1,15 +1,20 @@
 [submodule "contrib/m4ntlr"]
 	path = contrib/m4ntlr
 	url = https://github.com/stephenrkell/m4ntlr.git
+	branch = master
 [submodule "contrib/libantlr3c++"]
 	path = contrib/libantlr3c++
 	url = https://github.com/stephenrkell/libantlr3cxx.git
+	branch = master
 [submodule "contrib/libcxxgen"]
 	path = contrib/libcxxgen
 	url = https://github.com/stephenrkell/libcxxgen.git
+	branch = master
 [submodule "contrib/libdwarfpp"]
 	path = contrib/libdwarfpp
 	url = https://github.com/stephenrkell/libdwarfpp.git
+	branch = master
 [submodule "contrib/antlr3"]
 	path = contrib/antlr3
 	url = https://github.com/antlr/antlr3
+	ignore = all
